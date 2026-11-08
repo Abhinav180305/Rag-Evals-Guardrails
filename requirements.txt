@@ -1,0 +1,11 @@
+langchain>=0.3
+langchain-ollama
+langchain-community
+langchain-text-splitters
+langsmith
+faiss-cpu
+rank_bm25
+sentence-transformers
+pypdf
+python-dotenv
+langchain-google-genai

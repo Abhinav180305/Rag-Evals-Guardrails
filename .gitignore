@@ -1,0 +1,14 @@
+.env
+.venv/
+index/
+data/docs/*
+!data/docs/.gitkeep
+data/questions*.jsonl
+__pycache__/
+*.pyc
+judge_test.py
+recall_check.py
+patch_*.py
+count_missing.py
+show_refused.py
+find_example.py
